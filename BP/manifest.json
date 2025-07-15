@@ -1,0 +1,40 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "v1.0.0 - Pack by Mittens4all - Item Count",
+        "name": "Item Count",
+        "uuid": "32668ebd-c55a-4b05-9490-837978ca7ccc",
+        "version": [ 1, 0, 0 ],
+        "min_engine_version": [ 1, 21, 90 ]
+    },
+    "modules": [
+        {
+            "description": "Behavior Pack",
+            "type": "data",
+            "uuid": "f4dbc720-81ff-4d46-9139-5ad88ec916bc",
+            "version": [ 1, 0, 0 ]
+        },
+        {
+            "description": "Scripts Module",
+            "type": "script",
+            "language": "javascript",
+            "uuid": "e4a729b6-4602-46ab-bfc5-f601fe9ce1dc",
+            "entry": "scripts/main.js",
+            "version": [ 1, 0, 0 ]
+        }
+    ],
+    "dependencies": [ 
+        {
+            "module_name": "@minecraft/server",
+            "version": "2.0.0"
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "mittens4all"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/mittens4all/",
+        "product_type": "addon"
+    }
+}
