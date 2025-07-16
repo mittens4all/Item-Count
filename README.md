@@ -28,8 +28,8 @@ When a player places items from their inventory into the 2x2 crafting grid or th
 ## Authors
 
 - [@mittens4all](https://www.github.com/mittens4all)
-- [jeanmajid](https://github.com/jeanmajid)
-- [thejonathanlongly]()
+- [@jeanmajid](https://github.com/jeanmajid)
+- [@thejonathanlongly](https://discord.gg/SYstTYx5G5) in Bedrock Commands Community Discord
 
 
 ```js
