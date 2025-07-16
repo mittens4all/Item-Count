@@ -1,10 +1,10 @@
 {
     "format_version": 2,
     "header": {
-        "description": "v1.0.0 - Pack by Mittens4all - Item Count",
+        "description": "v2.0.0 - Pack by Mittens4all, jeanmajid, thejonathanlongly - Item Count",
         "name": "Item Count",
         "uuid": "32668ebd-c55a-4b05-9490-837978ca7ccc",
-        "version": [ 1, 0, 0 ],
+        "version": [ 2, 0, 0 ],
         "min_engine_version": [ 1, 21, 90 ]
     },
     "modules": [
@@ -31,7 +31,9 @@
     ],
     "metadata": {
         "authors": [
-            "mittens4all"
+            "mittens4all",
+            "jeanmajid",
+            "thejonathanlongly"
         ],
         "license": "MIT",
         "url": "https://github.com/mittens4all/",

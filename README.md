@@ -18,17 +18,18 @@ You can target players using the scores selector argument in your commands:
 
 ```yaml
 # Target players who have 64 enchanted golden apples
-execute as @a[scores={item_count:enchanted_golden_apple=64}] run <command>
+execute as @a[scores={inv:enchanted_golden_apple=64}] run <command>
 ```
 
 **Known Limitations**
 
 When a player places items from their inventory into the 2x2 crafting grid or the 3x3 crafting table grid, the script will no longer detect the items in the player inventory. It does, however, detect items in PC players' cursor.
 
-## Author
+## Authors
 
 - [@mittens4all](https://www.github.com/mittens4all)
-- [Youtube](https://www.youtube.com/@mittens4all)
+- [jeanmajid](https://github.com/jeanmajid)
+- [thejonathanlongly]()
 
 
 ```js
